@@ -10,3 +10,5 @@
 `@Author 卢林军`
 
 ### [pytorch入门——个人总结](https://blog.csdn.net/kiminoamae/article/details/106497532)
+
+### [吴恩达深度学习——人脸识别和风格迁移](https://blog.csdn.net/kiminoamae/article/details/106587033)
