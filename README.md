@@ -12,3 +12,8 @@
 ### [pytorch入门——个人总结](https://blog.csdn.net/kiminoamae/article/details/106497532)
 
 ### [吴恩达深度学习——人脸识别和风格迁移](https://blog.csdn.net/kiminoamae/article/details/106587033)
+
+# 第15,16周学习报告
+`@Date 2020.6.19`
+`@Author 卢林军`
+### [吴恩达深度学习——序列模型](https://blog.csdn.net/kiminoamae/article/details/106848717)
