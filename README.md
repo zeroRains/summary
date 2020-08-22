@@ -1,3 +1,6 @@
+
+### [初识tensor](https://blog.csdn.net/kiminoamae/article/details/107747208)
+
 ### [数学建模——概率论统计模型的基本理论](https://blog.csdn.net/kiminoamae/article/details/107681900)
 ### [数学建模——数据分析方法](https://blog.csdn.net/kiminoamae/article/details/107664368)
 ### [数学建模——图论](https://blog.csdn.net/kiminoamae/article/details/107609854)
